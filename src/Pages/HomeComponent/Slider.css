@@ -1,0 +1,6 @@
+.slick-arrow::before {
+  color: red !important;
+}
+button::before {
+  color: red !important;
+}

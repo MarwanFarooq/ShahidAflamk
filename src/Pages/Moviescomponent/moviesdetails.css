@@ -1,0 +1,12 @@
+.details {
+  width: 100%;
+  height: 70vh;
+  position: absolute;
+
+  z-index: 1;
+  background: linear-gradient(
+    to right,
+    rgba(0, 0, 0, 0.078),
+    rgba(137, 136, 136, 0.9)
+  );
+}
